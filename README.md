@@ -1,0 +1,1 @@
+A basic API made for fun and to learn DRF
